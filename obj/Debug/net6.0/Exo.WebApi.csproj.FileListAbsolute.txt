@@ -814,3 +814,4 @@ C:\Users\toshi\OneDrive\Área de Trabalho\DEV_FULL_STACK\UC14\Atividade_3\Exo.We
 C:\Users\toshi\OneDrive\Área de Trabalho\DEV_FULL_STACK\UC14\Atividade_3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 C:\Users\toshi\OneDrive\Área de Trabalho\DEV_FULL_STACK\UC14\Atividade_3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\toshi\OneDrive\Área de Trabalho\DEV_FULL_STACK\UC14\Atividade_3\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\toshi\OneDrive\Área de Trabalho\DEV_FULL_STACK\UC14\Atividade_3\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
