@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AlLUw1uiERU=",
+  "dgSpecHash": "L/eKOk/+nFk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\toshi\\OneDrive\\Área de Trabalho\\DEV_FULL_STACK\\UC14\\Atividade_4\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\toshi\\OneDrive\\Área de Trabalho\\DEV_FULL_STACK\\UC14 - Desenvolvimento de APIs\\Atividade_6\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\toshi\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\toshi\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
